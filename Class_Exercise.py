@@ -1,5 +1,5 @@
-num_1 = int(input("Enter your first number: "))
-num_2 = int(input("Enter your second number: "))
+num_1 = int(input("Enter your first integer number: "))
+num_2 = int(input("Enter your second integer number: "))
 
 total_operation_1 = None
 total_operation_2 = None
